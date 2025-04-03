@@ -1,7 +1,6 @@
-Hii Ajay
+Add Dotnet COre
 
-hello i am in main
 
-c# code added 
+
 
 
